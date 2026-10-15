@@ -1,5 +1,6 @@
-## Hi there 👋
-
+I love:
+Biomedicine, mathematics, physics, informatics. Love science.
+Focus: cellular gerontology
 <!--
 **samumuon/samumuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
